@@ -145,11 +145,4 @@ scikit-learn
 ## 👤 Author
 
 **Devanshu Gaidhane**
-B.Tech, Computer Science & Engineering
-MIT Art, Design and Technology University, Pune
 
----
-
-## 📄 License
-
-This project is released under the [MIT License](LICENSE).
